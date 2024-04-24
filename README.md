@@ -1,3 +1,3 @@
 # docker-sample
 sample django docker project
-with github actions
+- with github actions -
